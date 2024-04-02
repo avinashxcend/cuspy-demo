@@ -1,0 +1,3 @@
+{
+  "extends": "@cuspy-apps/typescript-config/base.json"
+}
